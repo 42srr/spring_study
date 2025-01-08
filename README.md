@@ -8,7 +8,7 @@
 
 ## Study Plan
 - [x] Week 1 : chapter 2 - chapter 4
-- [ ] Week 2 : chapter 5 - chapter 6ß
-- [ ] Week 3 : chapter 7 - chapter 8ß
+- [ ] Week 2 : chapter 5 - chapter 6
+- [ ] Week 3 : chapter 7 - chapter 8
 - [ ] Week 4 : chapter 9 - chapter 10
 
