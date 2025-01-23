@@ -326,7 +326,7 @@ public class MemberServiceImpl implements MemberService{...}
 
 ```
 
-두 빈을 동일한 이름으로 설정하고 실행할 경우 `BeanDefinitionStoreException` 가 발생한다. 
+두 빈을 동일한 이름으로 설정하고 실행할 경우 `ConflictingBeanDefinitionException` 이 발생한다. 
 
 
 ## 자동 - 수동
